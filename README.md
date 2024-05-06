@@ -1,6 +1,6 @@
-# search documents using Elastic search and openai
+# search documents using Elastic Search and openai
 
-# We will use pipenv for dependency management. Let's install it:
+We will use pipenv for dependency management. Let's install it:
 pip install pipenv
 
 #Install the packages
