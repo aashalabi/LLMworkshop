@@ -1,4 +1,12 @@
-# search documents using Elastic Search and openai
+** LLM RAG 
+   Search documents using Elastic Search and openai
+ Chat with your own data **
+
+** You need:
+Docker
+Python 3.10
+OpenAI account
+**
 
 We will use pipenv for dependency management. Let's install it:
 pip install pipenv
